@@ -1,4 +1,5 @@
 # `hello`
+![ICP project](https://github.com/user-attachments/assets/4f6e4308-db78-40e9-ba13-7c85b8d0dec5)
 
 Welcome to your new `hello` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
